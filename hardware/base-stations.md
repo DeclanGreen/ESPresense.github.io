@@ -13,7 +13,7 @@ The firmware is currently only compatible with just the plain ESP32. We do not c
 * ATOM Lite [direct](https://shop.m5stack.com/collections/m5-controllers/products/atom-lite-esp32-development-kit) or [digikey](https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/C008/12088545)
 * [M5Stamp Pico](https://shop.m5stack.com/collections/m5-controllers/products/m5stamp-pico-diy-kit)
 * [M5Stick-C (plus or original)](https://amzn.to/3kQadi0)
-* [D1 Mini ESP32](https://amzn.to/3tlkK8D)
+* [D1 Mini ESP32](https://www.amazon.co.uk/gp/product/B08BTYCGVV/ref=ewc_pr_img_1?smid=A1X7QLRQH87QA3&th=1)
 * [Huzzah32](https://amzn.to/3n5M1uQ)
 * [ESP32 development board](https://amzn.to/38ECmmy)
 * [LOLIN32 ESP32](https://www.aliexpress.com/item/1005001847767933.html)
